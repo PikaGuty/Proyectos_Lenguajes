@@ -1,0 +1,11 @@
+Explicacion tokens
+
+TOKEN               PATRON                          
+
+palabra             Sucesión de una o más letras  
+
+dospuntos           Símbolo :                              
+puntocoma           Símbolo ;                     
+
+entero_positivo     secuencia de uno o más digitos
+error               cualquier cosa no sea lenguaje
